@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 A game developer
+
+![GithubStats](https://github-readme-stats.vercel.app/api?username=ialex32x&show_icons=true)
+
+
+![DevLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ialex32x&theme=blue-green)
